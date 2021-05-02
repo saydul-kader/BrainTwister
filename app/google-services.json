@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084586152874",
+    "firebase_url": "https://brain-twister-f6447.firebaseio.com",
+    "project_id": "brain-twister-f6447",
+    "storage_bucket": "brain-twister-f6447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084586152874:android:6055fa9ca9dadf3c5d11d3",
+        "android_client_info": {
+          "package_name": "com.example.braintwister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084586152874-m7nghg7m81tpkattdhopia273ie6snnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.braintwister",
+            "certificate_hash": "413497234a838b122a6ede549092d126e099fad9"
+          }
+        },
+        {
+          "client_id": "1084586152874-ing7kusr99vsik609ashd9qga173p28e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwFpQsjk4ge9IcWrtDuqJzTQk3NgCtyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084586152874-ing7kusr99vsik609ashd9qga173p28e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
